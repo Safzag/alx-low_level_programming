@@ -2,9 +2,9 @@
 
 /**
  * *_realloc - allocating a memory block using malloc and free.
- * @ptr: a  pointer to memory allocated with malloc(old_size).
- * @old_size: a size in bytes, of the allocated space for ptr
- * @new_size: the size in bytes of the new memory block.
+ * @ptr: a pointer to memory allocated with malloc(old_size).
+ * @old_size: size in bytes, of the allocated space for ptr
+ * @new_size: size in bytes of the new memory block.
  *
  * Return: NULL if new_size = 0 and ptr is not NULL.
  */
