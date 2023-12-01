@@ -4,8 +4,8 @@
 #include "hash_tables.h"
 
 /**
- * main - check the code for safzag .
- *
+ * main - check the code for
+ *Author: safae zghari
  * Return: Always EXIT_SUCCESS.
  */
 int main(void)
